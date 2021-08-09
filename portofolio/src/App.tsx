@@ -25,10 +25,10 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route exact path="/">
+          <Route path="/">
             <LandingPage />
           </Route>
-          <Route exact path="/portraits" component={PillarCarousel}>
+          <Route path="/portraits" component={PillarCarousel}>
             <PillarCarousel images={[img1, img2, img3, img4, img5]} />
           </Route>
           <Route exact path="/stacked-carousel" component={StackedCarousel}>
