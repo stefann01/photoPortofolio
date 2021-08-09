@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/photoPortofolio/static/css/main.a04354e7.chunk.css",
-    "main.js": "/photoPortofolio/static/js/main.b2c8d7dc.chunk.js",
-    "main.js.map": "/photoPortofolio/static/js/main.b2c8d7dc.chunk.js.map",
-    "runtime-main.js": "/photoPortofolio/static/js/runtime-main.e0f86e77.js",
-    "runtime-main.js.map": "/photoPortofolio/static/js/runtime-main.e0f86e77.js.map",
-    "static/js/2.507e26b3.chunk.js": "/photoPortofolio/static/js/2.507e26b3.chunk.js",
-    "static/js/2.507e26b3.chunk.js.map": "/photoPortofolio/static/js/2.507e26b3.chunk.js.map",
-    "static/js/3.ea469eac.chunk.js": "/photoPortofolio/static/js/3.ea469eac.chunk.js",
-    "static/js/3.ea469eac.chunk.js.map": "/photoPortofolio/static/js/3.ea469eac.chunk.js.map",
+    "main.css": "/photoPortofolio/static/css/main.187702bd.chunk.css",
+    "main.js": "/photoPortofolio/static/js/main.56323276.chunk.js",
+    "main.js.map": "/photoPortofolio/static/js/main.56323276.chunk.js.map",
+    "runtime-main.js": "/photoPortofolio/static/js/runtime-main.53b0c148.js",
+    "runtime-main.js.map": "/photoPortofolio/static/js/runtime-main.53b0c148.js.map",
+    "static/js/2.f9739173.chunk.js": "/photoPortofolio/static/js/2.f9739173.chunk.js",
+    "static/js/2.f9739173.chunk.js.map": "/photoPortofolio/static/js/2.f9739173.chunk.js.map",
+    "static/js/3.8cbbe6ca.chunk.js": "/photoPortofolio/static/js/3.8cbbe6ca.chunk.js",
+    "static/js/3.8cbbe6ca.chunk.js.map": "/photoPortofolio/static/js/3.8cbbe6ca.chunk.js.map",
     "index.html": "/photoPortofolio/index.html",
-    "static/css/main.a04354e7.chunk.css.map": "/photoPortofolio/static/css/main.a04354e7.chunk.css.map",
-    "static/js/2.507e26b3.chunk.js.LICENSE.txt": "/photoPortofolio/static/js/2.507e26b3.chunk.js.LICENSE.txt",
+    "static/css/main.187702bd.chunk.css.map": "/photoPortofolio/static/css/main.187702bd.chunk.css.map",
+    "static/js/2.f9739173.chunk.js.LICENSE.txt": "/photoPortofolio/static/js/2.f9739173.chunk.js.LICENSE.txt",
     "static/media/_MG_3815-min.f4ae5850.jpg": "/photoPortofolio/static/media/_MG_3815-min.f4ae5850.jpg",
     "static/media/_MG_3821-min.59a0d877.jpg": "/photoPortofolio/static/media/_MG_3821-min.59a0d877.jpg",
     "static/media/_MG_3847-min.663ecd2f.jpg": "/photoPortofolio/static/media/_MG_3847-min.663ecd2f.jpg",
@@ -24,9 +24,9 @@
     "static/media/right-arrow.77e8b4f3.svg": "/photoPortofolio/static/media/right-arrow.77e8b4f3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0f86e77.js",
-    "static/js/2.507e26b3.chunk.js",
-    "static/css/main.a04354e7.chunk.css",
-    "static/js/main.b2c8d7dc.chunk.js"
+    "static/js/runtime-main.53b0c148.js",
+    "static/js/2.f9739173.chunk.js",
+    "static/css/main.187702bd.chunk.css",
+    "static/js/main.56323276.chunk.js"
   ]
 }
